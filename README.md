@@ -16,4 +16,4 @@ ANS: By the middle of June I want to have successfully created an endless surviv
 
 d. Technology used: What are you using to make the project?
 
-ANS: This game will utilize Pygame + python. I will additionally be utilizing sprites to create my character models and items/inventory system.
+ANS: This game will utilize Pygame + python. I will additionally be utilizing sprites to create my character models and items/inventory system. In order to code my actual project I will be programming on replit with github linked for ease of use and organization.
