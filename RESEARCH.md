@@ -1,1 +1,5 @@
-
+https://www.youtube.com/@JCode777 (playlist for top down shooter)
+https://itch.io/ (assets)
+https://www.youtube.com/watch?v=ilwcJrV1fdk (enemies)
+https://www.youtube.com/watch?v=UIq3VUzICPU (borders)
+https://www.youtube.com/watch?v=E82_hdoe06M (health bar)
